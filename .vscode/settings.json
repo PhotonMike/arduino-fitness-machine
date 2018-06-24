@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/mike/.platformio/penv/bin:/home/mike/.platformio/penv:/home/mike/bin:/home/mike/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/android-sdk/platform-tools:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/opt/android-sdk/platform-tools",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
